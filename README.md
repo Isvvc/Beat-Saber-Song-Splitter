@@ -16,7 +16,7 @@ BSSS Is a tool designed for charting very long songs in Beat Saber using [EditSa
 
 **FFmpeg**
 
-[FFmpeg](https://www.ffmpeg.org/) is required, but a copy of the needed files is included with official releases.
+[FFmpeg](https://www.ffmpeg.org/) is required, but a copy of the needed files is included with [official releases](https://github.com/Isvvc/Beat-Saber-Song-Splitter/releases).
 
 The current Batchfiles are hard-coded to support ffmpeg-4.0-win64-static, though that is arbitrary and essentially any version of FFmpeg should work.
 
